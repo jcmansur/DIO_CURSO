@@ -1,5 +1,5 @@
 # 💻 João Carlos Mansur
-Cientista de dados.
+Cientista de dados
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/joaomansur/) 
@@ -20,4 +20,3 @@ Cientista de dados.
 ### Meus Principais Desafios de Projeto DIO
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jcmansur&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/jcmansur/dio-lab-open-source)
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=jcmansur&repo=DIO_CURSO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/jcmansur/DIO_CURSO)
